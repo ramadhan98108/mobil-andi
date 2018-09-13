@@ -1,4 +1,4 @@
 <?php
 	mysql_connect("localhost", "root", "");
-	mysql_select_db("mobil");
+	mysql_select_db("kimcil");
 ?>
